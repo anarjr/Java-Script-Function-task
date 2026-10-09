@@ -1,0 +1,99 @@
+1) m ededi gelir, eger eded 20-den boyuk ve 50-den kicikdirse, onu 3 defe artirin, eks halda 5 vahid azaldin.
+
+2) a ve b ededleri gelir, her ikisi cutdurse onlarin hasilini, eks halda cemini tapin.
+
+3) m ededi gelir, eded 5-e bolunurse kvadratini, bolunmurse kubunu hesablayin.
+
+4) m ededinden 1-e qeder olan butun cut ededlerin cemini tapin.
+
+5) n ve m ededleri arasinda 4-e bolunen ededlerin hasilini tapin.
+
+6) a ededi gelir, onun butun bolenlerini ekrana cixarin.
+
+7) m ve n arasinda 3-e bolunen ededlerin sayini tapin.
+
+8) m ve n arasinda 7-ye bolunen ededlerin cemini tapin.
+
+9) m ve n arasinda hem cut, hem de 3-e bolunen ededleri ekrana cixarin.
+
+10) m ededinin reqemleri arasinda en boyuk reqemi tapin.
+
+11) m ededinin reqemleri arasinda en kicik reqemi tapin.
+
+12) m ededinin reqemleri ceminin cut ve ya tek oldugunu muyyen edin.
+
+13) m ededinin nece cut reqemi oldugunu tapin.
+
+14) m ededinin nece tek reqemi oldugunu tapin.
+
+15) m ededinin reqemleri arasinda 5-den boyuk olan reqemlerin cemini tapin.
+
+16) m ededini tersine cevirib ekrana cixarin.
+
+17) m ededinin palindrome olub-olmadigini muyyen edin.
+
+18) m ededinin ilk ve son reqeminin cemini tapin.
+
+19) m ededinin reqemleri arasinda 0 olan reqemlerin sayini tapin.
+
+20) m ededinin reqemlerinin hasilini tapin.
+
+21) Array daxilinde 10-dan boyuk olan elementlerin sayini tapin.
+
+22) Array daxilinde 10-dan kicik olan elementlerin cemini tapin.
+
+23) Array daxilinde 3-e bolunen elementleri ekrana cixarin.
+
+24) Array daxilinde 5-e bolunen elementlerin sayini tapin.
+
+25) Array daxilinde menfi elementlerin cemini tapin.
+
+26) Array daxilinde musbet elementlerin hasilini tapin.
+
+27) Array daxilinde 0-a beraber olan elementlerin sayini tapin.
+
+28) Array daxilinde ilk cut elementi tapin.
+
+29) Array daxilinde son tek elementi tapin.
+
+30) Array daxilinde en boyuk ve en kicik element arasindaki ferqi tapin.
+
+31) Array elementlerinin orta qiymetini tapin.
+
+32) Array daxilinde 20-den boyuk ve 50-den kicik elementlerin sayini tapin.
+
+33) Array daxilinde hem menfi, hem de cut olan elementleri ekrana cixarin.
+
+34) Array daxilinde hem musbet, hem de tek olan elementlerin cemini tapin.
+
+35) Array daxilinde maksimum elementin indexini tapin.
+
+36) Array daxilinde minimum elementin indexini tapin.
+
+37) Array daxilinde cut ve tek elementlerin sayini muqayise edin ve hansi sayin cox oldugunu gosterin.
+
+38) Array daxilinde yalniz bir defe tekrarlanan elementleri tapin.
+
+39) Array daxilinde tekrarlanan elementlerin sayini tapin.
+
+40) Array elementlerini tersine duzerek ekrana cixarin.
+
+41) Array daxilinde ikinci en boyuk elementi tapin.
+
+42) Array daxilinde ikinci en kicik elementi tapin.
+
+43) Array daxilinde en boyuk iki elementin cemini tapin.
+
+44) Array daxilinde butun menfi elementleri musbete cevirin.
+
+45) Array daxilinde cut elementleri bir array-e, tek elementleri basqa array-e toplayin.
+
+46) Array daxilinde 3-e bolunen elementlerin cemi ile 3-e bolunmeyen elementlerin ceminin ferqini tapin.
+
+47) Array elementleri arasinda ardicil gelen iki eyni elementi tapin.
+
+48) Array-de en cox tekrarlanan elementi tapin.
+
+49) Iki array verilir, her iki array-de olan ortaq elementleri tapin.
+
+50) Array-deki elementlerin artan sira ile duzulub-duzulmediyini muyyen edin.
